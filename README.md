@@ -4,10 +4,10 @@ Hello! I'm **Skander Lahbaiel**, a passionate Software Engineer with a strong ba
 
 ## Education
 
-- **Master’s Degree in Cybersecurity and Smart Systems**  
+- **Postgraduate Master’s Degree in Cybersecurity and Smart Systems**  
   *CY Tech | CY Cergy Paris Université, France (2024 – Present)*
 
-- **Bachelor’s Degree in Software Engineering**  
+- **Master’s Degree in Engineering**  
   *Mediterranean Institute Of Technology, Tunisia (2019 – 2024)*
 
 ## Professional Experience
