@@ -1,8 +1,8 @@
 # About me
 
-👋 Hello! I'm **Skander Lahbaiel**, a passionate Software Engineer with a strong background in cloud engineering, web development, and cybersecurity.
+Hello! I'm **Skander Lahbaiel**, a passionate Software Engineer with a strong background in cloud engineering, web development, and cybersecurity.
 
-## 🎓 Education
+## Education
 
 - **Master’s Degree in Cybersecurity and Smart Systems**  
   *CY Tech | CY Cergy Paris Université, France (2024 – Present)*
@@ -10,7 +10,7 @@
 - **Bachelor’s Degree in Software Engineering**  
   *Mediterranean Institute Of Technology, Tunisia (2019 – 2024)*
 
-## 💼 Professional Experience
+## Professional Experience
 
 - **Cloud Engineering Intern**  
   *LiJo Technologies, Tunisia (Feb 2024 – Jul 2024)*  
@@ -28,19 +28,20 @@
   - Developed a **B2B/B2C mobile application** with product recognition using **convolutional neural networks**.
   - Managed the project using **SCRUM** and **Agile** methodologies.
 
-## 🛠️ Skills
+## Skills
 
 - **Languages**: Python, JavaScript, TypeScript, HTML, CSS
 - **Frameworks**: ReactJS, Express.js, Node.js
 - **Cloud**: AWS (AWS Certified Cloud Practitioner), Kubernetes, Docker
 - **DevOps**: CI/CD, GitLab, Helm, Ansible
 - **Cybersecurity**: Cloud Security, Automated Testing
+- **Other**: Selenium, Linux Ubuntu, Bash scripting
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- Deepening knowledge in **Cloud Security** and **Machine Learning**.
+I am focusing on deepening my knowledge in **cloud security** while working on personal projects to gain hands-on experience.
 
-## 📚 Certifications
+## Certifications
 
 - **AWS Certified Cloud Practitioner**  
   *Amazon Web Services (Valid until Feb 2027)*
@@ -51,7 +52,7 @@
 - **Programming with JavaScript**  
   *Meta - Coursera (Issued Feb 2023)*
 
-## 💬 Contact
+## Contact
 
 - **LinkedIn**: [linkedin.com/in/skander-lahbaiel](https://www.linkedin.com/in/skander-lahbaiel/)
 - **Email**: skander.lahbaiel@medtech.tn
